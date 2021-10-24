@@ -1,1 +1,0 @@
-http://www.akzhy.com/blog/pure-css-modal/
